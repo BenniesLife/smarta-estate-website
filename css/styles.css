@@ -1615,3 +1615,32 @@ p {
   filter: brightness(0) invert(1);
   max-height: 45px;
 }
+
+/* Problem section CTA box (replaces fake stats) */
+.problem__cta-box {
+  background: linear-gradient(135deg, var(--color-primary-50), var(--color-cyan-50));
+  border: 1px solid var(--color-primary-100);
+  border-radius: 1.5rem;
+  padding: 3rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 300px;
+}
+
+.problem__cta-box h3 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--color-gray-900);
+  margin-bottom: 1rem;
+}
+
+.problem__cta-box p {
+  font-size: 1.0625rem;
+  color: var(--color-gray-600);
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+  max-width: 400px;
+}
