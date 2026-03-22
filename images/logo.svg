@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <!-- Water droplet -->
+  <path d="M28 8C28 8 12 28 12 38C12 46.837 19.163 54 28 54C36.837 54 44 46.837 44 38C44 28 28 8 28 8Z" fill="#2563EB"/>
+  <!-- Building inside droplet -->
+  <rect x="21" y="30" width="14" height="16" rx="1" fill="white" opacity="0.9"/>
+  <rect x="23.5" y="33" width="3.5" height="3.5" rx="0.5" fill="#2563EB" opacity="0.6"/>
+  <rect x="29" y="33" width="3.5" height="3.5" rx="0.5" fill="#2563EB" opacity="0.6"/>
+  <rect x="23.5" y="38.5" width="3.5" height="3.5" rx="0.5" fill="#2563EB" opacity="0.6"/>
+  <rect x="29" y="38.5" width="3.5" height="3.5" rx="0.5" fill="#2563EB" opacity="0.6"/>
+  <!-- Roof -->
+  <path d="M19 31L28 23L37 31" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <!-- Text -->
+  <text x="52" y="32" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="700" fill="#0F172A">Smarta</text>
+  <text x="52" y="50" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="400" fill="#2563EB" letter-spacing="3">ESTATE</text>
+</svg>
